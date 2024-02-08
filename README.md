@@ -22,7 +22,6 @@
 
 ## 💻 Languages 💻
 
-## <br>
 
 <div align="center">
       <img src="https://img.shields.io/badge/-HTML5-f06529?style=for-the-badge&labelColor=black&logo=html5&logoColor=f06529"> 
@@ -33,7 +32,6 @@
       &nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Python-15CDF5?style=for-the-badge&labelColor=black&logo=python&logoColor=15CDF5">
       &nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-Git-f34f29?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29">
       <br>
       <br>
       <img src="https://img.shields.io/badge/-C-044F88?style=for-the-badge&labelColor=black&logo=c&logoColor=044F88">
