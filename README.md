@@ -1,10 +1,11 @@
-![](https://github.com/Noralya/GIFs/blob/main/2mrf5qgev8p61.gif)
-
 # <p align="center">Hi there ! ☕</p>
 
 ### <p align="center">*・。★⌒．。・*⌒☆*・，。★・*⌒☆*・｡ Welcome to my Github *・。★⌒．。・*⌒☆*・，。★・*⌒☆*・｡</p>
 
 ## <br>
+
+![](https://github.com/Noralya/GIFs/blob/main/2mrf5qgev8p61.gif)
+
 
 ## ✨ About Me ✨
 
