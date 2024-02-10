@@ -19,10 +19,11 @@
 
 🎮 **Aspiring to become a game developer !**</div>
 
-## <br>
+<br>
 
 ## 💻 Languages 💻
 
+### <br>
 
 <div align="center">
       <img src="https://img.shields.io/badge/-HTML5-f06529?style=for-the-badge&labelColor=black&logo=html5&logoColor=f06529"> 
